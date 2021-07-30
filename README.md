@@ -1,7 +1,7 @@
 # ixd-fourjohnbaskerville
 John Baskerville Exercise
 
-<a href="https://emmamoodyixd.github.io/ixd-fourjohnbaskerville/1 Four John Baskerville - First Version.html" target="_blank" title="Four John Baskerville - First Version">Version 1 </a><br>
+<a href="https://emmamoodyixd.github.io/ixd-fourjohnbaskerville/1_four_john_baskerville-first_version.html" target="_blank" title="Four John Baskerville - First Version">Version 1 </a><br>
 First exercise challenge!
 
 
