@@ -1,5 +1,5 @@
 # ixd-fourjohnbaskerville
-John Baskerville Exercise
+John Baskerville Exercise attempted by Emma Moody.
 
 <a href="https://emmamoodyixd.github.io/ixd-fourjohnbaskerville/1_four_john_baskerville-first_version.html" target="_blank" title="Four John Baskerville - First Version">Version 1 </a><br>
 First exercise challenge!
