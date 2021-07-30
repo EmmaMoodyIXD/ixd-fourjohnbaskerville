@@ -17,5 +17,5 @@ Added Google Fonts and manipulated header and other extra details to the site.
 Added a table and images to the site.
 
 
-Links won't work, but the files and images are all attached, along with their CSS folder and image folder.
+Links won't work, but the files and images are all attached, along with their CSS folder and image folder.<br>
 The code can be accessed by clicking on <b>"1 Four John Baskerville"<b> and choosing from versions 1 - 4.
