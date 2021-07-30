@@ -14,4 +14,4 @@ Added Google Fonts and manipulated header and other extra details to the site.
 
 
 <a href="https://emmamoodyixd.github.io/ixd-fourjohnbaskerville/1 Four John Baskerville - First Version.html" target="_blank" title="Four John Baskerville - Fourth Version">Version 4 </a><br>
--Added a table and images to the site.
+Added a table and images to the site.
